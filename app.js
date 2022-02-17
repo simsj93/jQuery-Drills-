@@ -1,4 +1,4 @@
-$(document).ready(function () { // ensure the HTML is properly loaded before anything is manipulated.
+$(document).ready(function () { // ensures the HTML is properly loaded before anything is manipulated.
     $('body').append('<div></div>');
     $('body').append('<ul></ul>'); // appending a div and an unordered list. 
 
